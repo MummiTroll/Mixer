@@ -1,0 +1,48 @@
+D:\Umschulung\VS\Mixer\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Umschulung\VS\Mixer\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Umschulung\VS\Mixer\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Umschulung\VS\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Umschulung\VS\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Umschulung\VS\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Umschulung\VS\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Umschulung\VS\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Umschulung\VS\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Umschulung\VS\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Umschulung\VS\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Update.resources
+C:\All\VS\Mixer\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\All\VS\Mixer\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\All\VS\Mixer\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\All\VS\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\All\VS\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\All\VS\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\All\VS\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Update.resources
+C:\All\VS\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\All\VS\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\All\VS\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\All\VS\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Umschulung\VS\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SaveCocktailPopUp.resources
+C:\All\VS\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SaveCocktailPopUp.resources
+D:\VS\Old projects\Mixer\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\VS\Old projects\Mixer\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\VS\Old projects\Mixer\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\VS\Old projects\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\VS\Old projects\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\VS\Old projects\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\VS\Old projects\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SaveCocktailPopUp.resources
+D:\VS\Old projects\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Update.resources
+D:\VS\Old projects\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\VS\Old projects\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\VS\Old projects\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\VS\Old projects\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\_Selected_Projects\Mixer\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\_Selected_Projects\Mixer\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\_Selected_Projects\Mixer\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\_Selected_Projects\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\_Selected_Projects\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\_Selected_Projects\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\_Selected_Projects\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SaveCocktailPopUp.resources
+D:\_Selected_Projects\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Update.resources
+D:\_Selected_Projects\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\_Selected_Projects\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\_Selected_Projects\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\_Selected_Projects\Mixer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
